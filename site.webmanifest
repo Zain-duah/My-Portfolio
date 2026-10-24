@@ -1,0 +1,16 @@
+{
+  "name": "Zain Duah — Developer & Founder of ZINICH",
+  "short_name": "Zain Duah",
+  "description": "The portfolio of Zain Duah, developer and founder of ZINICH in Tema, Ghana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f2eb",
+  "theme_color": "#f4f2eb",
+  "icons": [
+    {
+      "src": "/me.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
